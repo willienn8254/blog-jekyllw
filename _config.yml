@@ -1,0 +1,12 @@
+# Site settings
+title: Blog Welinton Suarez
+email: wesgbriangmail.com
+description: Full-stack Rails Developer en formacion
+baseurl: "/blog-jekyll" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: wilintonsuarez
+github_username:  willienn8254
+
+# Build settings
+markdown: kramdown
+
